@@ -1,0 +1,24 @@
+{
+  "name": "my-first-cli",
+  "version": "1.0.0",
+  "description": "This is my first cli, It will do some stuff, that I don't know yet.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "bin": {
+    "snippet": "src/index.js"
+  },
+  "author": "Sachin Chavan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.13.0",
+    "superagent": "^3.8.2"
+  }
+}
