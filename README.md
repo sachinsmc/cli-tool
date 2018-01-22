@@ -9,11 +9,7 @@ Getting started with first your own CLI tool
 `cd my-first-cli`
 
 
-`npm install -g`
-
- OR
- 
-`sudo npm install -g`
+`npm install -g` OR `sudo npm install -g`
 
 `snippet`
 
@@ -21,3 +17,7 @@ Getting started with first your own CLI tool
 
 `which snippet`
 
+
+For Python CLI
+
+`python src/index.py --count=2 --name=Sachin Chavan`
