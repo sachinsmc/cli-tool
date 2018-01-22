@@ -1,2 +1,2 @@
 # my-first-cli
-Getting started with crreating your own CLI tool
+Getting started with first your own CLI tool
